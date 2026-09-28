@@ -1,3 +1,3 @@
-# Nithin.EXE — 90s Vintage Portfolio
+# Nithin.EXE
 
-A deliberately retro personal portfolio built with plain HTML, CSS and JavaScript.
+Portfolio built with plain HTML, CSS and JavaScript.
